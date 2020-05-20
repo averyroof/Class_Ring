@@ -1,0 +1,13 @@
+C:\Projects\RiderProjects\Ring\Ring\bin\Debug\netcoreapp3.1\Ring.exe
+C:\Projects\RiderProjects\Ring\Ring\bin\Debug\netcoreapp3.1\Ring.deps.json
+C:\Projects\RiderProjects\Ring\Ring\bin\Debug\netcoreapp3.1\Ring.runtimeconfig.json
+C:\Projects\RiderProjects\Ring\Ring\bin\Debug\netcoreapp3.1\Ring.runtimeconfig.dev.json
+C:\Projects\RiderProjects\Ring\Ring\bin\Debug\netcoreapp3.1\Ring.dll
+C:\Projects\RiderProjects\Ring\Ring\bin\Debug\netcoreapp3.1\Ring.pdb
+C:\Projects\RiderProjects\Ring\Ring\obj\Debug\netcoreapp3.1\Ring.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\Ring\Ring\obj\Debug\netcoreapp3.1\Ring.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\Ring\Ring\obj\Debug\netcoreapp3.1\Ring.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\Ring\Ring\obj\Debug\netcoreapp3.1\Ring.AssemblyInfo.cs
+C:\Projects\RiderProjects\Ring\Ring\obj\Debug\netcoreapp3.1\Ring.dll
+C:\Projects\RiderProjects\Ring\Ring\obj\Debug\netcoreapp3.1\Ring.pdb
+C:\Projects\RiderProjects\Ring\Ring\obj\Debug\netcoreapp3.1\Ring.genruntimeconfig.cache
